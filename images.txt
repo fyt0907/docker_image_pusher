@@ -1,1 +1,1 @@
-antonyleons/ward@sha256:da67f246ee6153ee877c65fdc739c4af405bb83e2ac034e6e488c84f108b986f
+dockurr/windows-arm:latest
