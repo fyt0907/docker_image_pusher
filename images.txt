@@ -1,1 +1,1 @@
-mysql:8.2.0
+sha256:ed04aca46b6fe0bdc192becc17d358b46eeb82762b81ee65b80feff3d0873e9d
