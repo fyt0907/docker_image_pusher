@@ -1,1 +1,1 @@
-lovechen/embyserver:latest@sha256:ca3394938bd0caa316b244390ccfe57509346448c38a3c6bc78b8d42a80d5e6c
+nginx:stable-perl@sha256:b295d38fecec863ce5e1fbf76d8106caa4ad5c3dbad58cbf80d3fd7ba8124a90
