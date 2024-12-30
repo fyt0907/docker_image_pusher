@@ -1,1 +1,1 @@
-mysql:8.0.40@sha256:ed04aca46b6fe0bdc192becc17d358b46eeb82762b81ee65b80feff3d0873e9d
+lovechen/embyserver:latest@sha256:ca3394938bd0caa316b244390ccfe57509346448c38a3c6bc78b8d42a80d5e6c
