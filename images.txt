@@ -1,1 +1,1 @@
-nginx:stable-perl@sha256:b295d38fecec863ce5e1fbf76d8106caa4ad5c3dbad58cbf80d3fd7ba8124a90
+xiaoyaliu/alist:latest
