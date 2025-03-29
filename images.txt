@@ -1,1 +1,1 @@
-tonistiigi/binfmt
+tonistiigi/binfmt@sha256:0446ccc4360b14005b1b54ef8b32d808dafc7d7623b8ce573b1310063daf8c4f
